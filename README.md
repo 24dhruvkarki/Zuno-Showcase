@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Zuno%20logo%20.png" alt="Zuno Logo" width="200">
+  <img src="Zuno logo.png" alt="Zuno Logo" width="200">
 </p>
 
 # Zuno
@@ -33,7 +33,7 @@ Zuno is a product developed by Arakis, a technology company building software de
 
 *This repository is a public product showcase. Zuno’s application source code is maintained separately in a private repository.*
 
-## Product Demo
+## Product Demo (Click the thumbnail to play the video)
 
 <p align="center">
   <a href="https://youtu.be/wB4Aqe1Lqcw?si=9QbddtiQdbl5Ti0e">
