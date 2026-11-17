@@ -27,3 +27,8 @@ Convex
 Zuno is a product developed by Arakis, a technology company building software designed around real-world business problems.
 
 This repository is a public product showcase. Zuno’s application source code is maintained separately in a private repository.
+
+
+
+## Product Demo
+[!Watch Zuno Demo](https://IMG.youtube.com/vi/wB4Aqe1Lqcw/maxresdefault.jpg)] (https://youtu.be/wB4Aqe1Lqcw?si=9QbddtiQdbl5Ti0e)
