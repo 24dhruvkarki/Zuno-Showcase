@@ -36,7 +36,7 @@ Zuno is a product developed by Arakis, a technology company building software de
 ## Product Demo (Click the thumbnail to play the video)
 
 <p align="center">
-  <a href="https://youtu.be/wB4Aqe1Lqcw?si=9QbddtiQdbl5Ti0e">
+  <a href="https://youtu.be/wB4Aqe1Lqcw?si=9QbddtiQdbl5Ti0e" width = 800>
     <img src="https://img.youtube.com/vi/wB4Aqe1Lqcw/maxresdefault.jpg" alt="Zuno Product Demo">
   </a>
 </p>
