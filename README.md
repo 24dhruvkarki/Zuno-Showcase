@@ -1,3 +1,7 @@
+<p align="center">
+  <img SRC ='Zuno logo concepts.png  alt="Zuno Logo"
+</p>
+    
 # Zuno
 Get paid. Without the chasing.
 
