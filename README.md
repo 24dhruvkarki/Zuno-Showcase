@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Zuno logo.png" alt="Zuno Logo" width="200">
+  <img src="Zuno logo .png" alt="Zuno Logo" width="200">
 </p>
 
 # Zuno
