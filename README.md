@@ -1,5 +1,5 @@
 <p align="center">
-  <img SRC ='Zuno logo concepts.png'  alt="Zuno Logo"
+  <img SRC ='Zuno logo .png'  alt="Zuno Logo"
 </p>
     
 # Zuno
