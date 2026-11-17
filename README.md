@@ -32,5 +32,5 @@ This repository is a public product showcase. Zuno’s application source code i
 
 ## Product Demo
 <p align="center">
-<img SRC(https://IMG.youtube.com/vi/wB4Aqe1Lqcw/maxresdefault.jpg)] (https://youtu.be/wB4Aqe1Lqcw?si=9QbddtiQdbl5Ti0e)
+<img SRC = (https://IMG.youtube.com/vi/wB4Aqe1Lqcw/maxresdefault.jpg)] alt (https://youtu.be/wB4Aqe1Lqcw?si=9QbddtiQdbl5Ti0e)
 <p/>
